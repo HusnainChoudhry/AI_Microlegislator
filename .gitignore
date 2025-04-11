@@ -1,0 +1,10 @@
+# Environment
+.env
+.venv/
+
+# Results
+results.json
+
+# Python
+__pycache__/
+*.py[cod]
